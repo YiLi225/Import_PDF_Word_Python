@@ -1,5 +1,5 @@
 # Import_PDF_Word_Python
-Code snippets and example files for the Medium blog 
+Code snippets and example files for the Medium blog. 
 This repo contains the following files:
 1. Pdf_Word_Reader.py: fully-baked code snippets.
 
