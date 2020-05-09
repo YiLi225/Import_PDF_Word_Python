@@ -9,4 +9,4 @@ This repo contains the following files:
 
 4. Sample_File_PDF_Image.pdf: PDF file with scanned-in images, which is publicly accessible for free, and the direct download is http://www.a-pdf.com/ocr/index.htm
 
-Disclaimer: all the sample files aforementioned are used for demonstration purpose only.
+Disclaimer: all the sample files aforementioned are used for Python code demonstration purpose only.
